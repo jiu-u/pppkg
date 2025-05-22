@@ -1,7 +1,7 @@
 package neov_dep
 
 import (
-	"github.com/jiu-u/pppkg/v3/neov"
+	"github.com/jiu-u/pppkg/v4/neov"
 )
 
 func Run() {
